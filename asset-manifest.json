@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Mebel/static/css/main.c24a390b.chunk.css",
+    "main.js": "/Mebel/static/js/main.b076e3c4.chunk.js",
+    "main.js.map": "/Mebel/static/js/main.b076e3c4.chunk.js.map",
+    "runtime-main.js": "/Mebel/static/js/runtime-main.84510326.js",
+    "runtime-main.js.map": "/Mebel/static/js/runtime-main.84510326.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Mebel/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d3ea1977.chunk.js": "/Mebel/static/js/2.d3ea1977.chunk.js",
+    "static/js/2.d3ea1977.chunk.js.map": "/Mebel/static/js/2.d3ea1977.chunk.js.map",
+    "static/js/3.97de8e7e.chunk.js": "/Mebel/static/js/3.97de8e7e.chunk.js",
+    "static/js/3.97de8e7e.chunk.js.map": "/Mebel/static/js/3.97de8e7e.chunk.js.map",
+    "index.html": "/Mebel/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Mebel/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.c24a390b.chunk.css.map": "/Mebel/static/css/main.c24a390b.chunk.css.map",
+    "static/js/2.d3ea1977.chunk.js.LICENSE.txt": "/Mebel/static/js/2.d3ea1977.chunk.js.LICENSE.txt",
+    "static/media/bez.195652db.jpg": "/Mebel/static/media/bez.195652db.jpg",
+    "static/media/lus.ae9358bb.jpg": "/Mebel/static/media/lus.ae9358bb.jpg",
+    "static/media/meg.823fa3cd.jpg": "/Mebel/static/media/meg.823fa3cd.jpg",
+    "static/media/of.387b9930.jpg": "/Mebel/static/media/of.387b9930.jpg",
+    "static/media/prof.3d677b7a.jpg": "/Mebel/static/media/prof.3d677b7a.jpg",
+    "static/media/vann.4a919722.jpg": "/Mebel/static/media/vann.4a919722.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84510326.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d3ea1977.chunk.js",
+    "static/css/main.c24a390b.chunk.css",
+    "static/js/main.b076e3c4.chunk.js"
+  ]
+}
