@@ -1,0 +1,25 @@
+.btn{
+    border-radius: 15px;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btn--primary {
+    color: #fff;
+}
+
+.btn--secondary {
+    color: #fff;
+}
+
+.btn--small {
+    font-size: 14px;
+    color: #fff;
+}
+
+.btn--medium {
+    font-size: 18px;
+    color: #fff;
+}

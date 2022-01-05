@@ -1,0 +1,25 @@
+.cart-menu {
+    position: absolute;
+    top: 30px;
+    left: -200px;
+    background-color: rgb(255, 207, 152);
+    width: 300px;
+    padding: 10px 20px;
+    z-index: 2;
+    border-radius: 15px;
+    color: #000;
+}
+
+.cart-menu__arrange {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    color: #000;
+}
+
+.cart-menu__total-price {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    color: #000;
+}
